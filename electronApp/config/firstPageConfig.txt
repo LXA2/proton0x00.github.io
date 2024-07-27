@@ -8,5 +8,5 @@
 "windowTopped":false,
 "resizable":true，
 "devTools":true,
-"transparant":false,
+"transparent":false,
 }
