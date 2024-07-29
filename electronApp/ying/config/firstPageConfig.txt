@@ -1,5 +1,5 @@
 {
-"url":"https://proton0x00.github.io/test-site/index.html",
+"url":"https://proton0x00.github.io/ying/index.html",
 "title":"KHL's test-site",
 "width":800,
 "height":600,
