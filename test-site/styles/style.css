@@ -1,6 +1,6 @@
 
 html {
-    font-size: 10px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
+    font-size: 15px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
     font-family: "Open Sans", sans-serif; /* 这应该是你从 Google Fonts 得到的其余输出。 */
   }
   h1 {
@@ -14,24 +14,43 @@ html {
     letter-spacing: 1px;
   }
   html {
-    background-color: #00539f;
+    background-color: #7ec8f6;
   }
   body {
-    width: 600px;
-    margin: 0 auto;
-    background-color: #ff9500;
-    padding: 0 20px 20px 20px;
+    width: 68%;
+    margin: 3% auto 3% auto;
+    background-color: #247d4296;
+    padding: 15px;
     border: 5px solid black;
   }
   h1 {
     margin: 0;
-    padding: 20px 0;
-    color: #00539f;
-    text-shadow: 3px 3px 1px rgb(234, 107, 4);
+    padding: 20px 10;
+    color: #053c20;
+    text-shadow: 3px 3px 1px rgb(108, 154, 122);
   }
   img {
     display: block;
     margin: 0 auto;
+  }
+  h2{
+    margin: 0;
+    font-size: 26px;
+  }
+  #sjwb{
+    font-size: 15px;
+    line-height: 1.3em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-indent: 2em;
+  }
+  #sjwbh1{
+    font-size: 18px;
+    line-height: 1.1em;
+  }
+  #jiada{
+    font-size: 20px;
+    font-weight: 1000;
   }
   
   
